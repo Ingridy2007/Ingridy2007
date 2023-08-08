@@ -1,5 +1,5 @@
 - 👋 oi,eu sou @ingridy.bigochinski
-- 🌱 atualmente estou aprendendo o alura na aula Pensamento Computacional
+- 🌱 atualmente estou aprendendo o alura 
 - 📫 meu email @ingridy.bigochinski@escola.pr.gov.br
 
 <!---
